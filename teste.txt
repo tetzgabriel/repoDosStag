@@ -1,3 +1,13 @@
 Oi eu sou o tetz!
 To alterando!
 vou testar o stash
+
+Pietro | 03 Sep 2021 16:55
+
+- oi tetz!
+
+- git stash realmente é um comando mt útil, uso todo dia
+
+- um comando mt bom tb é o git cherry pick, resolve mt treta qnd tem gente trabalhando em paralelo em outras branchs!!
+
+- outra coisa q salva mt tb é 'git rebase -i' q deixa vc escolher os commits q vc vai usar no rebase, inclusive essa flag interactive é válida pra outros comandos (ex: git add)
